@@ -1,5 +1,6 @@
+
 Neural network with l2 regularization for predicting if a client will answer yes on offer of bank term deposit.
 
-For course in machine learning
+The data is based on the csv file.
 
-Feel free to tweak parameteres
+
